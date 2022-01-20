@@ -1,0 +1,15 @@
+/* header area css */
+.input-box{
+    top: 8px;
+    right: 17px;
+}
+.input-box i{
+    color: #ced4da;;
+}
+
+.slider-bg-color{
+    background-color: #FEEAE9;
+}
+.price-color{
+    color: #FF136F;
+}
